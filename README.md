@@ -7,7 +7,7 @@ https://youtu.be/hJ4QSPHvraI
 # Tutorial Build with Step by Step
 https://rivaldi48.blogspot.com/2021/05/Tutorial-Membuat-Aplikasi-Resep-Minuman-dengan-Android-Studio.html
 
-<img src="https://1.bp.blogspot.com/-JAkZpctnZ-k/YIeojjvc-RI/AAAAAAAAH2M/qlaqWJNynq0fsabEkdp81OvHmd_Q-uAYACLcBGAsYHQ/s2048/Tutorial%2BMembuat%2BAplikasi%2BKonversi%2BMata%2BUang%2Bdengan%2BAndroid%2BStudio.png" data-canonical-src="https://1.bp.blogspot.com/-JAkZpctnZ-k/YIeojjvc-RI/AAAAAAAAH2M/qlaqWJNynq0fsabEkdp81OvHmd_Q-uAYACLcBGAsYHQ/s2048/Tutorial%2BMembuat%2BAplikasi%2BKonversi%2BMata%2BUang%2Bdengan%2BAndroid%2BStudio.png" style="max-width:100%;">
+<img src="https://1.bp.blogspot.com/-8OAM3VMEB_c/YJOrtlybXvI/AAAAAAAAH2w/ZPbavUFyE8A9ObRm8RpBaFLYtk3JmIw_ACLcBGAsYHQ/s1280/Tutorial%2BMembuat%2BAplikasi%2BResep%2BMinuman%2Bdengan%2BAndroid%2BStudio.png" data-canonical-src="https://1.bp.blogspot.com/-8OAM3VMEB_c/YJOrtlybXvI/AAAAAAAAH2w/ZPbavUFyE8A9ObRm8RpBaFLYtk3JmIw_ACLcBGAsYHQ/s1280/Tutorial%2BMembuat%2BAplikasi%2BResep%2BMinuman%2Bdengan%2BAndroid%2BStudio.png" style="max-width:100%;">
 
 *****If you use the Source Code, please make sure to credit and backlink to [Azhar Rivaldi](https://rivaldi48.blogspot.com/)***
 
